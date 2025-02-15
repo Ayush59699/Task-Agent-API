@@ -1,0 +1,13 @@
+python-dotenv
+pillow
+faker
+numpy
+uv
+requests
+scipy
+fastapi
+uvicorn
+pydantic
+starlette
+python-multipart
+httpx
